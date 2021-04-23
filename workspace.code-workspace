@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "hrd",
+			"path": "hrd"
+		},
+		{
+			"name": "hrd-1",
+			"path": "hrd-1"
+		}
+	],
+	"settings": {}
+}
